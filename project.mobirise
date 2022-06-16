@@ -43,7 +43,7 @@
     ],
     "imageResize": true,
     "uniqCompNum": 30,
-    "versionPublish": "5.5.2",
+    "versionPublish": "5.6.5",
     "screenshot": "screenshot.png",
     "chatbutton": {
       "phone": "+59178545471",
@@ -1867,6 +1867,45 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "cod. 1064&nbsp; 80 ml",
+                "active": false
+              },
+              {
+                "tags": "Botellas",
+                "videoPreview": "@ADDONS_PATH@/voyagem4/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/111-800x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/111-800x800-800x800.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Cod 1009&nbsp; &nbsp;400 ml",
+                "active": false
+              },
+              {
+                "tags": "Botellas",
+                "videoPreview": "@ADDONS_PATH@/voyagem4/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/222-800x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/222-800x800-800x800.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Cod 1008&nbsp; &nbsp; 220 ml",
+                "active": false
+              },
+              {
+                "tags": "Botellas",
+                "videoPreview": "@ADDONS_PATH@/voyagem4/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/333-800x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/333-800x800-800x800.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "cod.1007&nbsp; 200 ml",
                 "active": false
               }
             ]
