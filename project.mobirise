@@ -1815,7 +1815,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "cod.1102",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Limpieza",
@@ -1906,7 +1906,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "cod.1007&nbsp; 200 ml",
-                "active": false
+                "active": true
               }
             ]
           }
